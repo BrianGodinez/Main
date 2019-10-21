@@ -1,5 +1,6 @@
-<style>
-#css {
+<head>
+  <style>
+    #css {
     color: #0ff
 }
 
@@ -52,11 +53,8 @@ canvas {
 span {
     font-size: 20px;
     font-family: comic sans ms
-
-
-
-</style>
-<head>
+}
+    </style>
   <title>Brian's Homepage</title>
 </head>
 
