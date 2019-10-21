@@ -76,15 +76,15 @@ span {
     </p>
     <p>Above you will find the most epic game of Smash.
         <p>
-            <h1 class=h1 style="background-size: cover; background-image: url(https://i.imgur.com/sb7vWat.jpg">NOW, THIS IS EPIC.</h1>
+            <h1 class="h1" style="background-size: cover; background-image: url(https://i.imgur.com/sb7vWat.jpg">NOW, THIS IS EPIC.</h1>
             <hr>
             <div class="parallax"></div>
             <span title="wow how did this get here">Don't hover over me</span>
             <marquee>I can't stop</marquee>
             <marquee direction="right">NOOOOOOOO</marquee>
-            <marquee direction="down" height=500px>I feel Sick</marquee>
+            <marquee direction="down" height="500">I feel Sick</marquee>
             <marquee scrollamount="80" direction="up" height="500px">Why Me</marquee>
             <hr>
-            <h1 class=h11>These are just some of the things you can do with code, what you do is only limited by your imagination</h1>
+            <h1 class="h11">These are just some of the things you can do with code, what you do is only limited by your imagination</h1>
 
 </body>
