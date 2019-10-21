@@ -61,7 +61,6 @@ span {
 
 <body>
     <h1>Welcome to Brian's Homepage</h1>
-    <hr>
     <br>
     <img class="profilePic" src="https://i.redd.it/mfr35o1w18931.jpg">
 
