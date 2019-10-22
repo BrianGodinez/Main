@@ -1,4 +1,4 @@
-
+<html>
 <head>
   <style>
     #css {
@@ -14,7 +14,7 @@
     text-shadow: 2px 2px #000
 }
 
-.h11 {
+.h1color {
     color: #00ff7f
 }
 
@@ -56,7 +56,6 @@ span {
     font-family: comic sans ms
 }
     </style>
-  <title>Brian's Homepage</title>
 </head>
 
 <body>
@@ -84,6 +83,7 @@ span {
             <marquee direction="down" height="500">I feel Sick</marquee>
             <marquee scrollamount="80" direction="up" height="500px">Why Me</marquee>
             <hr>
-            <h1 class="h11">These are just some of the things you can do with code, what you do is only limited by your imagination</h1>
+            <h1 class="h1color">These are just some of the things you can do with code, what you do is only limited by your imagination</h1>
 
 </body>
+</html>
